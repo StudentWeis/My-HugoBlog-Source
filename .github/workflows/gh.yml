@@ -1,0 +1,31 @@
+name: deploy
+
+on:
+    push:
+    workflow_dispatch:
+
+jobs:
+    build:
+        runs-on: ubuntu-20.04
+        steps:
+            - name: Checkout
+              uses: actions/checkout@v2
+              with:
+                  submodules: true
+                  fetch-depth: 0
+
+            - name: Setup Hugo
+              uses: peaceiris/actions-hugo@v2
+              with:
+                  hugo-version: "latest"
+
+            - name: Build Web
+              run: hugo --minify
+
+            - name: Deploy Web
+              uses: peaceiris/actions-gh-pages@v3
+              with:
+                  personal_token : ${{ secrets.PERSONAL_TOKEN }}
+                  EXTERNAL_REPOSITORY: StudentWeis/StudentWeis.github.io
+                  PUBLISH_BRANCH: main
+                  PUBLISH_DIR: ./public
