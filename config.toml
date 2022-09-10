@@ -1245,7 +1245,7 @@ uglyURLs = false
     displaySiteCopyright = true
 
     # 自定义页脚（支持 Markdown）
-    customFooter = "*生命万岁，自由万岁*"
+    customFooter = "***Good things take time.***"
 
     displayBusuanziSiteUVAndPV = false
     busuanziSiteUVText = "本站访客数"
