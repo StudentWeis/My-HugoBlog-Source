@@ -95,11 +95,7 @@ date: 2022-04-05T23:45:52+08:00
 
 我们需要有一个工具来帮助我们记录我们的目标，在尝试了众多的软件之后，我最终选择了微软的 [ToDo](https://todo.microsoft.com/tasks)，在这里我把我的使用感受和使用经验记录一下。
 
-<center>
-    <a>
-        <img src="https://z3.ax1x.com/2021/04/02/cm60W4.png" alt="cm60W4.png" border="0" />
-    </a>
-</center>
+![](https://z3.ax1x.com/2021/04/02/cm60W4.png)
 
 - 多平台快捷同步。这个在之前的版本还是不太行的，同步非常的慢，但最新版本真的太香了，基本是零延迟秒同步。
 
@@ -107,7 +103,7 @@ date: 2022-04-05T23:45:52+08:00
 
 - 完善的功能。
 
-	<a><img src="https://z3.ax1x.com/2021/04/02/cmcgjs.png" alt="cmcgjs.png" border="0" /></a>
+	![](https://z3.ax1x.com/2021/04/02/cmcgjs.png)
 	
 	基本具有我所需要的所有功能：自定义列表、期限制定、重要程度划分、分步骤列出、备注、循环任务等。
 
@@ -115,9 +111,7 @@ date: 2022-04-05T23:45:52+08:00
 
 其实很多道理我们心里都明白，但最重要的是如何执行，那么从现在就要开始啦！
 
-<a><img src="https://z3.ax1x.com/2021/04/02/cmglKs.png" alt="cmglKs.png" border="0" /></a>
-
-## 参考资料及脚注
+![](https://z3.ax1x.com/2021/04/02/cmglKs.png)
 
 [^1]:参考百度百科：https://baike.baidu.com/item/SMART%E5%8E%9F%E5%88%99/8575850?fr=aladdin
 
