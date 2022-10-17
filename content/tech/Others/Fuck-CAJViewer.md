@@ -1,11 +1,9 @@
 ---
-title: 告别CAJViewer & 科学文库PDF解密
+title: 告别 CAJViewer & 科学文库PDF解密
 date: 2021-11-15 19:34:23
 ---
 
 [CAJViewer](http://cajviewer.cnki.net/) 是中国知网推出的文档阅读器，由光盘国家工程研究中心、清华同方知网(北京)技术有限公司制作，用来阅读 CAJ、PDF 等格式文档。知网借此强推 CAJ 格式，可是这种封闭的格式十分的不友好，CAJViewer 的界面也很烂。为此，我找了很久替代方案，最终可以彻底告别 CAJViewer。
-
-<!-- more -->
 
 对我来说，CAJViewer 的主要用处有两个：
 

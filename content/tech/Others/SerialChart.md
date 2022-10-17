@@ -10,8 +10,6 @@ tags:
 
 做单片机开发时，往往有一些参数需要通过串口发送到 PC 上进行监测，比如说温度值、PID 输出、角度值、速度值等等。直接看发送过来的数据不够直观，如果直接能看到数据的波形图🔀会更加方便。这种设计一般被称作**串口示波器**。
 
-<!-- more -->
-
 ### 1. 简介
 
 之前知道微软商店有一款不错的[串口调试助手](https://www.microsoft.com/store/productId/9NBLGGH43HDM)载有串口示波功能，需要付费，效果还没多好。前两天逛稚辉君的 Github 时正好看到大佬移植了一款串口示波器——[SerialChart](https://github.com/peng-zhihui/SerialChart)。试了一下，发现效果很不错，是从 [Starlion](https://github.com/starlino/serialchart) 那里移植过来的。稚辉君的修改了部分 UI 且做了部分翻译，有 120 多 MB；而原版是 85 MB，且更加简洁。所以我打算使用 Starlion 的原版，从[这里](http://www.starlino.com/serialchart)下载。
